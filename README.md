@@ -14,4 +14,5 @@ Github_link - https://lnkd.in/gXe2T8K5
 # **Conclusion:**
 
 1.This project can be used in real time  and can be used to  Analyse, making Bussineess Decision.
+
 2.Using this project we can store the data either in Mongodb or in Mysql.
