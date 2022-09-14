@@ -4,8 +4,9 @@ import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 from urllib.request import urlopen as uReq
-import mysql.connector as conn
-import pymongo as py
+# import mysql.connector as conn
+# import pymongo as py
+
 
 
 
@@ -98,7 +99,7 @@ def index():
                               'Customer_Location': Customer_location, 'Customer_Name': Customer_name}
                     reviews.append(mydict)
 
-        #
+
         #             try:
         #                 mydb = conn.connect(host='localhost', user='root', passwd='snzk@#1329')
         #                 cursor = mydb.cursor()
