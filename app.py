@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 from urllib.request import urlopen as uReq
 # import mysql.connector as conn
-# import pymongo as py
+import pymongo as py
 
 
 
