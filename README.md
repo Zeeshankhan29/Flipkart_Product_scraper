@@ -6,7 +6,8 @@ Github_link - https://lnkd.in/gXe2T8K5
 
 
 Scraper_details would look something like this
-![image](https://user-images.githubusercontent.com/95518247/199228503-12021eb2-5f24-4d51-84dc-fff53ff29d1f.png)
+![image](https://user-images.githubusercontent.com/95518247/199228695-84007d1b-96c6-4677-bb64-17c76ee3d7c5.png)
+
 
 
 #python #pythonprogramming #pythonlearning #dataanalysis #dataextraction #dataanalytics #datamodeling #businessanalysis #businessanalytics #mysql #mongodb
