@@ -5,6 +5,10 @@ This project is designed to search any Product in Flipkart website and ultimatel
 Github_link - https://lnkd.in/gXe2T8K5
 
 
+Scraper_details would look something like this
+![image](https://user-images.githubusercontent.com/95518247/199228503-12021eb2-5f24-4d51-84dc-fff53ff29d1f.png)
+
+
 #python #pythonprogramming #pythonlearning #dataanalysis #dataextraction #dataanalytics #datamodeling #businessanalysis #businessanalytics #mysql #mongodb
 
 
