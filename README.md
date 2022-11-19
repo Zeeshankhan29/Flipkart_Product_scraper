@@ -18,7 +18,7 @@ To check docker version
 dockers --version
 ```
 
-To creat docker image with docker name
+To creat docker image with repository name
 ```
 docker build . -t <tag_name>
 ```
