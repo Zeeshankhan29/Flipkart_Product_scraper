@@ -60,7 +60,12 @@ docker pull <user_name>/<repository_name>
 To Run docker image 
 
 ```
-docker run -p 5000:5000  <docker image id> or <repository name>
+docker run -p 5000:8000  <docker image id> or <repository name>
+
+or 
+
+docker run -p 5000:8000-e PORT=800 <docker image id> or <repository name>
+
 ```
 To check running docker containers
 ```
