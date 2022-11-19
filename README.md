@@ -17,11 +17,8 @@ To check docker version
 ```
 dockers --version
 ```
-To build docker we use
-```
-docker build .
-```
-To give the name to the docker image we use
+
+To creat docker image with docker name
 ```
 docker build . -t <tag_name>
 ```
